@@ -1,9 +1,11 @@
 import React from 'react'
-import Clock from '/src/chapter_04/Clock'
+import "./App.css"
+
+import CommentList from '/src/chapter_05/CommentList.jsx'
 
 function App() {
   return (
-    <Clock />
+    <CommentList/>
   );
 }
 
