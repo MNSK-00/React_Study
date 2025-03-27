@@ -1,10 +1,9 @@
 import React from 'react'
-import Book from '/src/chapter_03/Book'
-import Library from '/src/chapter_03/Library'
+import Clock from '/src/chapter_04/Clock'
 
 function App() {
   return (
-    <Library/>
+    <Clock />
   );
 }
 
