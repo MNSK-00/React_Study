@@ -1,11 +1,11 @@
 import React from 'react'
 import "./App.css"
 
-import CommentList from '/src/chapter_05/CommentList.jsx'
+import NotificationLists from './chapter_06/Notifications';
 
 function App() {
   return (
-    <CommentList/>
+    <NotificationLists/>
   );
 }
 
